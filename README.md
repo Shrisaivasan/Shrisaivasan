@@ -1,6 +1,6 @@
 - 👋 Hola!, I’m @Shrisaivasan, Hope you're safe and fine 😇
-- 👀 I’m interested in coding primarily using Python 
-- 🌱 I’m currently learning to develop applications
+- 👀 I’m interested in Web Dev and Cloud computing
+- 🌱 I’m currently learning random things on Web Dev and Cloud
 - 📫 Reach me on Linkedin: https://www.linkedin.com/in/shrisaivasan-e-1836010069/
 
 <!---
