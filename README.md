@@ -1,7 +1,7 @@
 - 👋 Hola!, I’m Shrisaivasan, Hope you're safe and fine 😇
 - 👀 I’m currently interested in Web Development and Cloud computing
 - 🌱 I’m currently learning Cloud computing (MS Azure)
-- 📫 Reach me on Linkedin: https://www.linkedin.com/in/shrisaivasan-e-1836010069/
+- 📫 Reach me on Linkedin: https://www.linkedin.com/in/shrisaivasan/
 
 <!---
 Shrisaivasan/Shrisaivasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
