@@ -1,6 +1,6 @@
 - 👋 Hola!, I’m Sai, Hope you're safe and fine 😇
-- 👀 I’m currently interested in Web Development and Cloud computing
-- 🌱 I’m currently learning Cloud computing (MS Azure)
+- 👀 I'm a Java developer specializing in Java, Spring Boot and REST APIs
+- 🌱 I’m currently learning Full Stack Development with Java
 - 📫 Reach me on Linkedin: https://www.linkedin.com/in/shrisaivasan/
 
 <!---
