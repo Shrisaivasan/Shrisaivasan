@@ -1,4 +1,4 @@
-- 👋 Hola!, I’m Sai, Hope you're safe and fine 😇
+- 👋 Hola!, I’m Sai
 - 👀 I'm a Java developer residing in Chennai with expertise in Spring Boot and REST APIs
 - 🌱 I’m currently working as a Software Engineer at Azentio Software Pvt Ltd
 - 📫 Reach me on Linkedin: https://www.linkedin.com/in/shrisaivasan/ or mail: delightedboysai@gmail.com
